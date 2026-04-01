@@ -1,6 +1,9 @@
 # Python Projects
 
-Hi! 👋 [Have a look 😊]
+Hi! 👋 
+-----[Have a look 😊]-----
+
+
 This repository contains my Python projects that I’m building while learning.. 
 
 I’m starting from the basics and slowly moving towards intermediate and advanced concepts. I’ll keep adding new projects here regularly as I learn and improve my skills.
