@@ -27,7 +27,7 @@ if direction == "left":
     lake = input('You have come to the lake, there is island in the middle of the lake: \ntype "wait" to wait for a boat or type "swim" to swim across.').lower()
     if lake == "wait":
         color = input('You arrive at a island unharmed.\nthere is house with 3 doors.\n one red, one yellow ,one blue. which color do you choose?').lower()
-        if color == "Blue":
+        if color == "blue":
             print("Eaten by beats.\nGame Over")
         elif color == "yellow":
             print("You Won!")
