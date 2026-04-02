@@ -52,11 +52,11 @@ A fun text-based adventure game where the player makes decisions to find a hidde
 
 **Concepts used:**
 
-Conditional statements (if/else)
-Nested conditions
-Logical operators
-User input handling
-String methods (.lower())
+* Conditional statements (if/else)
+* Nested conditions
+* Logical operators
+* User input handling
+* String methods (.lower())
 
 **Description:**
 
@@ -64,10 +64,10 @@ In this game, the player starts at a crossroads and must make a series of choice
 
 **Example:**
 
-Choice 1: left
-Choice 2: wait
-Choice 3: yellow
-Result: You Won 🎉
+* Choice 1: left
+* Choice 2: wait
+* Choice 3: yellow
+* Result: You Won 🎉
 
 What I learned:
 
