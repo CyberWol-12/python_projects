@@ -23,9 +23,9 @@ A simple project that creates a fun band name based on user input.
 * String concatenation
 
 **Example:**
-City: Delhi
-Pet: Bruno
-Band Name: Delhi Bruno
+* City: Delhi
+* Pet: Bruno
+* Band Name: Delhi Bruno
 
 
 
@@ -40,10 +40,10 @@ This project calculates how much each person should pay after splitting the bill
 * Basic calculations
 
 **Example:**
-Bill: 1000
-Tip: 10%
-People: 2
-Each person pays: 550
+* Bill: 1000
+* Tip: 10%
+* People: 2
+* Each person pays: 550
 
 
 # Day 3 - Treasure Island Game
@@ -94,9 +94,9 @@ In this project, the user selects Rock, Paper, or Scissors by entering a number 
 
 **Example**:
 
-•User choice: Rock
-•Computer choice: Scissors
-•Result: You Win 🎉
+* User choice: Rock
+* Computer choice: Scissors
+* Result: You Win 🎉
 
 
 # Goal
