@@ -76,7 +76,27 @@ What I learned:
 •Writing interactive command-line programs
 •Importance of case handling using .lower()
 
+# Day 4 - Rock Paper Scissors Game
 
+A simple and fun game where the user plays Rock, Paper, Scissors against the computer. The computer randomly selects an option, and the winner is decided based on the game rules.
+
+**Concepts used**:
+
+•Random module
+•Lists
+•Conditional statements (if/else)
+•User input handling
+•Indexing
+
+**Description**:
+
+In this project, the user selects Rock, Paper, or Scissors by entering a number or choice. The computer randomly chooses its option using Python’s random module. The program then compares both choices and declares the winner based on standard game rules.
+
+**Example**:
+
+•User choice: Rock
+•Computer choice: Scissors
+•Result: You Win 🎉
 
 
 # Goal
