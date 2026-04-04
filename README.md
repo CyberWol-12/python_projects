@@ -104,11 +104,11 @@ A useful project that generates a strong and secure random password based on use
 
 **Concepts used:**
 
-•Random module
-•Lists
-•Loops (for loop)
-•String manipulation
-•User input handling
+* Random module
+* Lists
+* Loops (for loop)
+* String manipulation
+* User input handling
 
 **Description:**
 
@@ -116,17 +116,17 @@ In this project, the user is asked how many letters, symbols, and numbers they w
 
 **Example:**
 
-•Letters: 4
-•Symbols: 2
-•Numbers: 2
-•Generated Password: aB3$k@9P
+* Letters: 4
+* Symbols: 2
+* Numbers: 2
+* Generated Password: aB3$k@9P
 
 **What I learned:**
 
-•How to generate randomness using Python
-•Working with lists and loops
-•Building a real-world useful utility
-•Improving logic for better security (shuffling password)
+* How to generate randomness using Python
+* Working with lists and loops
+* Building a real-world useful utility
+* Improving logic for better security (shuffling password)
 
 
 # Goal
