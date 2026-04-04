@@ -98,6 +98,36 @@ In this project, the user selects Rock, Paper, or Scissors by entering a number 
 * Computer choice: Scissors
 * Result: You Win 🎉
 
+## Day 5 - Random Password Generator
+
+A useful project that generates a strong and secure random password based on user preferences such as number of letters, symbols, and numbers.
+
+**Concepts used:**
+
+•Random module
+•Lists
+•Loops (for loop)
+•String manipulation
+•User input handling
+
+**Description:**
+
+In this project, the user is asked how many letters, symbols, and numbers they want in their password. The program then randomly selects characters from predefined lists and generates a password. The final password is shuffled to make it more secure and unpredictable.
+
+**Example:**
+
+•Letters: 4
+•Symbols: 2
+•Numbers: 2
+•Generated Password: aB3$k@9P
+
+**What I learned:**
+
+•How to generate randomness using Python
+•Working with lists and loops
+•Building a real-world useful utility
+•Improving logic for better security (shuffling password)
+
 
 # Goal
 
