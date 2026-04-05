@@ -128,6 +128,31 @@ In this project, the user is asked how many letters, symbols, and numbers they w
 * Building a real-world useful utility
 * Improving logic for better security (shuffling password)
 
+## Day 7 - Hangman Game ##
+
+A classic word-guessing game where the player tries to guess a hidden word letter by letter before running out of attempts.
+
+**Concepts used:**
+
+* Loops (while loop)
+* Conditional statements (if/else)
+* Lists
+* String manipulation
+* User input handling
+* Modules (importing files)
+
+**Description:**
+
+In this project, the computer randomly selects a word from a predefined list. The player guesses one letter at a time. If the guessed letter is correct, it is revealed in the word; otherwise, the player loses a life. The game continues until the player either guesses the complete word or runs out of lives.
+
+**Example:**
+
+* Word: _ _ _ _
+* Guess: a → Correct
+* Guess: z → Wrong
+* Lives left: 5
+...
+* Result: You Win 🎉 / Game Over 
 
 # Goal
 
