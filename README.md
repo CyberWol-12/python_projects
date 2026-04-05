@@ -154,6 +154,39 @@ In this project, the computer randomly selects a word from a predefined list. Th
 ...
 * Result: You Win 🎉 / Game Over 
 
+## Day 8 - Caesar Cipher ##
+
+A simple encryption and decryption program that shifts letters in a message to create a secret code. This is one of the basic techniques used in cryptography.
+
+**Concepts used:**
+
+* Functions
+* Loops
+* Conditional statements (if/else)
+* Lists and indexing
+* String manipulation
+
+**Description:**
+
+In this project, the user can choose to encrypt or decrypt a message. The program shifts each letter of the message by a given number (shift value). It also handles wrapping around the alphabet (e.g., after "z" comes "a"). The user can run the program multiple times to encode or decode different messages.
+
+**Example:**
+
+* Message: hello
+* Shift: 3
+* Encrypted: khoor
+
+* Message: khoor
+* Shift: 3
+* Decrypted: hello
+
+**What I learned**:
+
+* How to create reusable functions
+* Understanding basic encryption logic
+* Handling edge cases (like wrapping around alphabets)
+* Improving program structure and readability
+
 # Goal
 
 * Improve my Python skills
