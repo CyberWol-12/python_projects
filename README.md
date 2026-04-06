@@ -187,6 +187,37 @@ In this project, the user can choose to encrypt or decrypt a message. The progra
 * Handling edge cases (like wrapping around alphabets)
 * Improving program structure and readability
 
+## Day 9 - Secret Auction Program ##
+
+A program that simulates a secret auction where multiple users can place bids, and the highest bidder wins.
+
+**Concepts used:**
+
+* Dictionaries
+* Loops (while loop)
+* Conditional statements (if/else)
+* Functions
+* User input handling
+
+**Description:**
+
+In this project, multiple users can enter their names and bid amounts. Each bid is stored in a dictionary with the user’s name as the key and their bid as the value. After all users have placed their bids, the program determines the highest bidder and displays the winner.
+
+**Example:**
+
+* User 1: Alice → Bid: 300
+* User 2: Bob → Bid: 500
+* User 3: Charlie → Bid: 450
+
+**Winner: Bob with a bid of 500**
+
+**What I learned:**
+
+* How to use dictionaries to store and manage data
+* Looping through data to find maximum values
+* Building interactive programs with multiple users
+* Writing functions for cleaner and reusable code
+
 # Goal
 
 * Improve my Python skills

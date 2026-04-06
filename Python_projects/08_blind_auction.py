@@ -16,7 +16,7 @@ def compare_highest_bid(bidding_dictionary):
     print(f"The winner is {winner} with highest_bid of {highest_bid}")
 
 
-bids = {}
+bids = {} # empty dict
 new_bid = True
 while  new_bid:
     name = input("What is your name?")
