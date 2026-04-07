@@ -251,6 +251,36 @@ In this project, the user inputs two numbers and selects an operation (+, -, *, 
 * Creating continuous programs using loops
 * Improving user experience with repeated calculations
 
+## Day 11 - Blackjack Game##
+
+A simplified version of the classic Blackjack card game where the player competes against the computer (dealer) to get a score as close to 21 as possible without going over.
+
+**Concepts used:**
+
+* Functions
+* Lists
+* Loops (while loop)
+* Conditional statements (if/else)
+* Random module
+* Game logic implementation
+
+**Description:**
+
+In this project, the player and the computer are both dealt random cards. The player can choose to draw more cards or stop. The computer follows a predefined rule (draws until reaching a certain score). The final scores are compared to determine the winner based on Blackjack rules.
+
+**Example:**
+
+* Your cards: [10, 7] → Score: 17
+* Computer's cards: [9, 8] → Score: 17
+* Result: Draw
+
+**What I learned:**
+
+* How to implement real-world game logic in code
+* Managing multiple conditions and edge cases
+* Using randomness to simulate card dealing
+* Structuring code using functions for better readability
+
 # Goal
 
 * Improve my Python skills
