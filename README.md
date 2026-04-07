@@ -281,6 +281,36 @@ In this project, the player and the computer are both dealt random cards. The pl
 * Using randomness to simulate card dealing
 * Structuring code using functions for better readability
 
+## Day 12 - Number Guessing Game##
+
+A fun game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts.
+
+**Concepts used:**
+
+* Functions
+* Loops (while loop)
+* Conditional statements (if/else)
+* Random module
+* Variables and scope
+
+**Description:**
+
+In this project, the computer chooses a random number within a given range (e.g., 1 to 100). The player selects a difficulty level (easy or hard), which determines the number of attempts. After each guess, the program provides feedback like "Too high" or "Too low" until the player guesses correctly or runs out of attempts.
+
+**Example:**
+
+* Chosen number: (hidden)
+* Guess: 50 → Too low
+* Guess: 75 → Too high
+* Guess: 63 → Correct 🎉
+
+**What I learned:**
+
+* Understanding variable scope (local vs global)
+* Using functions to organize code
+* Implementing game logic with conditions
+* Providing user feedback for better interaction
+
 # Goal
 
 * Improve my Python skills
