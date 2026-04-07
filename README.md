@@ -218,6 +218,39 @@ In this project, multiple users can enter their names and bid amounts. Each bid 
 * Building interactive programs with multiple users
 * Writing functions for cleaner and reusable code
 
+## Day 10 - Calculator Program ##
+
+A simple calculator program that performs basic arithmetic operations like addition, subtraction, multiplication, and division. The user can perform multiple calculations without restarting the program.
+
+**Concepts used:**
+
+* Functions
+* Dictionaries
+* Loops (while loop)
+* Conditional statements (if/else)
+* Recursion (optional continuation logic)
+
+**Description:**
+
+In this project, the user inputs two numbers and selects an operation (+, -, *, /). The program performs the calculation using functions stored in a dictionary and displays the result. The user can continue calculating with the result or start a new calculation.
+
+**Example:**
+
+* First number: 10
+* Operation: +
+* Second number: 5
+* Result: 15
+
+* Continue with 15 → * 2
+* Result: 30
+
+**What I learned:**
+
+* How to use functions for different operations
+* Using dictionaries to map operations with functions
+* Creating continuous programs using loops
+* Improving user experience with repeated calculations
+
 # Goal
 
 * Improve my Python skills
