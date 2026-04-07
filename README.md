@@ -311,6 +311,41 @@ In this project, the computer chooses a random number within a given range (e.g.
 * Implementing game logic with conditions
 * Providing user feedback for better interaction
 
+
+## Day 14 - Higher Lower Game##
+
+A fun game where the player guesses which option has more followers based on given data. The goal is to keep guessing correctly and achieve the highest score.
+
+**Concepts used:**
+
+* Functions
+* Dictionaries
+* Loops (while loop)
+* Conditional statements (if/else)
+* Random module
+* Data handling
+
+**Description:**
+
+In this project, the program randomly selects two entities (e.g., celebrities, brands, or organizations) and displays their details except follower count. The player must guess which one has more followers. If the guess is correct, the score increases and the game continues; otherwise, the game ends.
+
+**Example:**
+
+* Compare A: Instagram (Social media platform)
+* Compare B: Cristiano Ronaldo (Footballer)
+
+Who has more followers? Type 'A' or 'B'
+
+Answer: B ✅
+Score: 1
+
+**What I learned:**
+
+* Working with complex data (dictionaries)
+* Building continuous game loops
+* Using randomness for dynamic gameplay
+* Improving decision-making logic in programs
+
 # Goal
 
 * Improve my Python skills
