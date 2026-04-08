@@ -393,4 +393,4 @@ I’ll keep adding more projects day by day as I continue learning 🚀
 
 # Author
 
-Divya Upadhyay!!
+Divya Upadhyay.
