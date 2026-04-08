@@ -346,6 +346,38 @@ Score: 1
 * Using randomness for dynamic gameplay
 * Improving decision-making logic in programs
 
+## Day 15 - Coffee Machine Program ##
+
+A simulation of a coffee machine where users can choose different drinks, insert coins, and receive their order if resources are sufficient.
+
+**Concepts used:**
+
+* Functions
+* Dictionaries
+* Loops (while loop)
+* Conditional statements (if/else)
+* Data handling
+* Modular programming
+
+**Description:**
+
+In this project, the program acts like a coffee machine. The user can choose a drink (espresso, latte, cappuccino), and the machine checks if enough resources (water, milk, coffee) are available. The user inserts coins, and if the payment is sufficient, the drink is served and resources are updated. The program continues running until turned off.
+
+**Example:**
+
+* Select drink: latte
+* Insert coins: ₹100
+* Cost: ₹80
+* Change returned: ₹20
+* ☕ Here is your latte. Enjoy!
+
+**What I learned:**
+
+* Managing real-world logic using dictionaries
+* Handling transactions and calculations
+* Structuring larger programs using functions
+* Updating and tracking system resources dynamically
+
 # Goal
 
 * Improve my Python skills
